@@ -9,7 +9,6 @@ Universitas Negeri Surabaya
 - Anggota 2: -
 
 ## 📖 Deskripsi Karya
-## 📖 Deskripsi Karya
 
 Monedu (Money Education) merupakan platform pembelajaran berbasis web yang dirancang untuk meningkatkan literasi keuangan di kalangan siswa dan mahasiswa. Latar belakang pengembangan website ini didasari oleh rendahnya tingkat pemahaman generasi muda terhadap pengelolaan keuangan pribadi, seperti perencanaan anggaran, menabung, investasi, hingga pengambilan keputusan finansial yang bijak.
 Melalui pendekatan berbasis teknologi, Monedu menghadirkan solusi edukatif yang interaktif dan mudah diakses. Platform ini mengintegrasikan konsep pendidikan dan ekonomi dalam satu ekosistem digital yang tidak hanya menyampaikan materi, tetapi juga mendorong pengguna untuk belajar secara aktif melalui praktik dan pengalaman langsung.
@@ -17,7 +16,7 @@ Fitur-fitur seperti pustaka materi finansial, kuis interaktif, tantangan berbasi
 Pemilihan subtema pendidikan dan ekonomi didasarkan pada urgensi peningkatan literasi finansial sebagai salah satu kompetensi esensial di era modern. Dengan menggabungkan teknologi, edukasi, dan gamifikasi, Monedu diharapkan mampu menjadi platform inovatif yang tidak hanya meningkatkan pengetahuan, tetapi juga membentuk perilaku finansial yang lebih bijak dan berkelanjutan.
 
 ## 🌐 Link Website
-🔗 https://
+🔗 https://monedu-money-education.vercel.app
 
 # MONEDU
 Platform edukasi literasi keuangan interaktif dengan gamifikasi untuk meningkatkan pengetahuan dan keterampilan keuangan masyarakat Indonesia.
