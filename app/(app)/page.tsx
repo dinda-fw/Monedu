@@ -301,7 +301,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="px-4 py-8 border-t border-border/50">
         <div className="max-w-7xl mx-auto text-center text-muted-foreground">
-          <p>2024 Monedu. Platform Edukasi Literasi Keuangan untuk Generasi Cerdas Indonesia.</p>
+          <p>2026 Monedu. Platform Edukasi Literasi Keuangan untuk Generasi Cerdas Indonesia.</p>
         </div>
       </footer>
     </div>

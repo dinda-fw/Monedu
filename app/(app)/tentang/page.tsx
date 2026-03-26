@@ -13,7 +13,7 @@ const teamMembers = [
     avatar: "/dinda.jpeg"
   },
   { 
-    name: "Umi Listiyaningsih", 
+    name: "Umi Listyaningsih", 
     role: "UI/UX Designer & Head Of Education", 
     description: "Mahasiswa Universitas Negeri Surabaya",
     avatar: "/UMI.jpeg"
